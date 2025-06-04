@@ -1,16 +1,16 @@
 
 ````markdown
-# NutritionAI
+ NutritionAI
 
 **NutritionAI** is a web-based application designed to provide users with personalized nutritional insights. By analyzing user inputs such as age, weight, height, gender, activity level, and dietary goals, the application calculates daily calorie requirements and macronutrient distributions, assisting users in achieving their health objectives.
 
-## 🚀 Features
+ 🚀 Features
 
 - **Personalized Nutrition Analysis**: Calculates daily caloric needs and macronutrient breakdown based on user inputs.
 - **User-Friendly Interface**: Simple and intuitive form for data entry.
 - **Responsive Design**: Ensures compatibility across various devices.
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS
 - **Backend**: Python, Flask
@@ -18,7 +18,7 @@
 - **Package Management**: npm
 - **Deployment**: Configured for platforms like Vercel or AWS
 
-## 📦 Installation
+ 📦 Installation
 
 1. **Clone the Repository**:
    ```bash
@@ -40,7 +40,7 @@
 
    The application will be accessible at `http://localhost:3000`.
 
-## 📁 Project Structure
+ 📁 Project Structure
 
 ```
 NutritionAI/
